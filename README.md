@@ -1,4 +1,4 @@
-# Dark-Mode-app
+# Dark-Mode-app 🌙
 
 App con Dark mode, puede detectar el mode del navegador usado por el usuario y adaptarse a este para mostrarse obscura o clara.
 
